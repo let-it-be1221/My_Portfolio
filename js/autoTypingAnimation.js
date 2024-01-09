@@ -1,0 +1,9 @@
+setTimeout(function() {
+    $('.about-info-inner').typed({
+      strings: [
+        "<span>I am Gezahegn Nigatu: A Software Developer with a Passion for Innovation. I was born and raised in a remote area with limited access to technology, fascination with the digital world blossomed from an early age. Despite the challenges posed by my environment, my curiosity and determination led me to pursue a Bachelor of Science in Computer Science from Arbaminch University. Driven by an insatiable desire to unravel the mysteries behind technology. My journey began with self-taught programming tutorials, gradually evolving into a deep-seated passion for crafting innovative solutions. My skills encompass a diverse range of programming languages and methodologies, including Python, Java, and JavaScript, Flutter, HTML, CSS, JS. I am adept at designing, developing, and testing software applications, always striving to create user-centric solutions that address real-world problems. Beyond technical proficiency, I possesses an unwavering belief in the transformative power of technology. I envision a future where technology seamlessly integrates into our lives, enhancing our experiences and empowering us to achieve the impossible. My passion extends beyond the realm of coding. I am an active member of the tech community, eager to share my knowledge and collaborate with others on groundbreaking projects. I am a firm advocate for digital literacy, believing that technology should be accessible to all. As a software developer, I am committed to creating innovative solutions that shape the future. My journey is a testament to the power of curiosity, determination, and a passion for technology. I really invites you to join me in shaping a more futuristic world, where technology empowers individuals and transforms our society."
+      ],
+      typeSpeed: 7,
+      contentType: 'html'
+    });
+  }, 100);
